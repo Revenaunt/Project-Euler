@@ -69,4 +69,6 @@ int main(){
 	//Clean up and output the result.
 	free(byte_field);
 	printf("\n\nThe largest prime is %i\n\n", largest_prime);
+	
+	return 0;
 }
