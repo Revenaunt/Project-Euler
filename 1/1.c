@@ -1,3 +1,10 @@
+/*
+ * Problem 1: Multiples of 3 nad 5.
+ *
+ * https://projecteuler.net/problem=1
+ */
+
+
 #include <stdio.h>
 
 #define MAX 1000
