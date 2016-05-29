@@ -1,6 +1,6 @@
 # Problem 97: [Large non-Mersenne prime](https://projecteuler.net/problem=97)
 
-This problem consists in finding the rightmost 10 digits of 28433×(2^7830457)+1, a 2,357,207 digit long number.
+This problem consists of finding the rightmost 10 digits of 28433×(2^7830457)+1, a 2,357,207 digit long number.
 
 ### Issues
 
