@@ -1,6 +1,6 @@
 /*
  * Problem 97: Large non-Mersenne prime
- 
+ * 
  * https://projecteuler.net/problem=97
  */
 

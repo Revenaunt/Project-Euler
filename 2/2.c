@@ -1,6 +1,14 @@
+/*
+ * Problem 2: Even Fibonacci numbers
+ * 
+ * https://projecteuler.net/problem=2
+ */
+
+
 #include <stdio.h>
 
 #define LIMIT 4000000
+
 
 int main(){
 	//Variables: the total sum, a two element array containing the last two values of the
